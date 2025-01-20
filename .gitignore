@@ -176,3 +176,4 @@ pyproject.toml
 docs/*
 _*
 rag_*.ipynb
+data/embed*
